@@ -1,7 +1,7 @@
 
 ---
 
-Manual Test Plan — Demo Retail Web App v1.0
+# Manual Test Plan — Demo Retail Web App v1.0
 
 Owner: Hector Maldonado  
 Test Window: 2 weeks (smoke, functional, regression)  
