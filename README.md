@@ -91,7 +91,7 @@ Detailed examples
 - Windows 11: 1080p@60, 1080p@120, 1440p@60
 - Browsers: Chrome stable, Edge stable
 - Input: Keyboard/Mouse; Controller (if supported)
-- Android 14 (Pixel 7)
+- Android 16 (Galaxy S25 Ultra)
 
 ### 10. Defect Workflow
 - Log in Jira as Bug with: Summary, Environment, Steps, Expected, Actual, Severity, Attachments, Affects Version
